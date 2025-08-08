@@ -1,5 +1,5 @@
 <h1>Bonjour, je suis Ronan Pandaure! <br/>
-<h4> présentation: blablabla </h4>
+<h4> Autonome, polyvalent et rigoureux, j’aime creuser les données pour en extraire du sens et proposer des axes stratégiques concrets. Curieux et proactif, je m’adapte rapidement aux enjeux métiers et j’apprécie le travail en équipe autant que les phases d’analyse en autonomie. </h4>
 
 <h2>👨‍💻 Projets Data Analyst:</h2>
 
