@@ -1,6 +1,12 @@
 <h1>Bonjour, je suis Ronan Pandaure! <br/>
 <h4> Autonome, polyvalent et rigoureux, j’aime creuser les données pour en extraire du sens et proposer des axes stratégiques concrets. Curieux et proactif, je m’adapte rapidement aux enjeux métiers et j’apprécie le travail en équipe autant que les phases d’analyse en autonomie. </h4>
 
+<h2> Portfolio Aéroworld </h2>
+
+Bienvenue sur mon portfolio professionnel, construit dans le cadre du projet **Aéroworld**.  
+Il regroupe mes livrables, démonstrations et compétences en gestion de projet data & visualisation.
+
+
 <h2> Projets Data Analyst:</h2>
 
 - <b>Analyse des ventes pour un-e-commerce</b>
