@@ -3,7 +3,7 @@
 
 <h2> Portfolio Aéroworld </h2>
 
-Bienvenue sur mon portfolio professionnel, construit dans le cadre du projet **Aéroworld**.  
+Bienvenue sur mon portfolio professionnel, construit dans le cadre du projet [**Aéroworld**](https://github.com/RonanPandaure/A-roworld/blob/eacb40707e88c66678834a1266ee983b92b3c855/README.md).  
 Il regroupe mes livrables, démonstrations et compétences en gestion de projet data & visualisation.
 
 
